@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="LanApp">
+    <file>images/contact.png</file>
+    <file>images/busy.png</file>
+    <file>images/check.png</file>
+    <file>images/comment.png</file>
+    <file>images/customers.png</file>
+    <file>images/email.png</file>
+    <file>images/folder.png</file>
+    <file>images/lightbulb.png</file>
+    <file>images/logout.png</file>
+    <file>images/networking.png</file>
+    <file>images/publish.png</file>
+    <file>images/settings.png</file>
+    <file>images/sign-in.png</file>
+    <file>images/sign-out.png</file>
+    <file>images/sign-up.png</file>
+    <file>images/upcoming-work.png</file>
+    <file>images/user.png</file>
+  </qresource>
+</RCC>

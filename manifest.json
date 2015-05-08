@@ -1,0 +1,16 @@
+{
+	"name" : "mohit_extension",
+	"version" : "1.0",
+	"manifest_version" : 2,
+	"description" : "This is my first extension for chrome",
+	"browser_action" : {
+		"default_icon" : "icon.png",
+		"default_popup" : "p.html"
+	},
+
+	"icons" : {
+		"128" : "icon.png"
+	}
+
+
+}
